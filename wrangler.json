@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "square-thunder-c471",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "7b820dd3-372a-401e-ae57-2ab502fbc569",
+      "database_name": "square-thunder-c471-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
